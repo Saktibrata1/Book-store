@@ -1,0 +1,17 @@
+/* Checkout.css */
+
+.checkout-container {
+    margin: 20px;
+  }
+  
+  .checkout-total {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .checkout-proceed-button {
+    margin-top: 10px;
+  }
+  

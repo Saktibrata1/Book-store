@@ -1,0 +1,31 @@
+/* Cart.css */
+
+.cart-container {
+    margin: 20px;
+  }
+  
+  .cart-table {
+    margin-bottom: 20px;
+  }
+  
+  .cart-item {
+    display: flex;
+    align-items: center;
+  }
+  
+  .cart-item-image {
+    width: 80px;
+    height: auto;
+    margin-right: 10px;
+  }
+  
+  .cart-total {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .cart-pay-button {
+    margin-top: 10px;
+  }
+  
